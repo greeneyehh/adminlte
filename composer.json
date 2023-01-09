@@ -1,5 +1,5 @@
 {
-  "name": "greeneye/adminlte",
+  "name": "greeneye/adminlteV2",
   "description": "AdminLTE - admin control panel and dashboard that's based on Bootstrap 4",
   "homepage": "http://adminlte.io/",
   "keywords": [
@@ -20,6 +20,6 @@
   ],
   "license": "MIT",
   "support": {
-    "issues": "https://gitlab.green-dev.de/greeneye/adminlte/issues"
+    "issues": "https://github.com/greeneyehh/adminltev2/issues"
   }
 }
